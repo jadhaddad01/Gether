@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Compose app theme for activities -->
+    <style name="Theme.BlankCompose" parent="Theme.Material3.DayNight.NoActionBar" />
+</resources>
